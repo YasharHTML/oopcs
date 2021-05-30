@@ -1,2 +1,2 @@
 # oopcs
-MYOOPPROGRAM
+Bank simulatorudur. Yoxlayin.
