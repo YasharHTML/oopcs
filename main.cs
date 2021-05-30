@@ -21,8 +21,8 @@ public class Test
                 return string.Format("Not enough balance. Your balance:{0}. Mr.{1}", bal, name);
             }
             else{
-                return string.Format("Money is deducted from your balance. Your balance:{0}. Mr.{1}",bal-a, name);
                 bal -= a;
+                return string.Format("Money is deducted from your balance. Your balance:{0}. Mr.{1}",bal-a, name);
             }
         }
     }
